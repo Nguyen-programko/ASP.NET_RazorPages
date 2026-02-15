@@ -12,5 +12,6 @@ https://drive.google.com/drive/folders/1md2u4JZiNAI9SVq0-_ct-6H7FSI7UNDT?usp=sha
 Přihlašovací údaje: 
 Admin
 DGXJcuihdvhwefgi1284693
+Pro přihlášení s těmito údaji budete mít přistup k Uzivatele page.
                     
 JWT token se ukládá na 5 minut do cookies. Lze je manuálně smazat v development tools(F12).
