@@ -3,7 +3,7 @@ Program pro 2. kolo pohovoru.
 
 
 # Spuštění
-Pro spuštění je potřeba Microsoft Visual studio. Při zpuštění přes .exe soubor jde jen jeden program v jednu chvíli. 
+Pro spuštění je potřeba Microsoft Visual studio.
 
 Začněte extrahováním souborů, otevřete oba projekty ve Visual Studiu poté spusťte UserInfoAPI a pak RazorWebLogin ten se vám spustí v prohlížeči.
 
